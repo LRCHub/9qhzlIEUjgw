@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Bombs away",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T03:00:53.583953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "Charlotte Gainsbourg",
+      "has_synced": true,
+      "path": "select/01_Bombs_Away_Charlotte_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bombs Away, Away",
+      "artist": "Circlesquare",
+      "has_synced": false,
+      "path": "select/02_Bombs_Away,_Away_Circlesquare.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/03_Bombs_Away_Anvil.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/04_Bombs_Away_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "John Maus",
+      "has_synced": true,
+      "path": "select/05_Bombs_Away_John_Maus.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "Joan Jett & The Blackhearts",
+      "has_synced": false,
+      "path": "select/06_Bombs_Away_Joan_Jett_&_The_Blackhearts.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bombs Away \u0000 Bonus Track",
+      "artist": "Joan Jett and the Blackhearts",
+      "has_synced": false,
+      "path": "select/07_Bombs_Away_\u0000_Bonus_Track_Joan_Jett_and_the_Blackhearts.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bombs Away [Bonus track]",
+      "artist": "Joan Jett and the Blackhearts",
+      "has_synced": false,
+      "path": "select/08_Bombs_Away_[Bonus_track]_Joan_Jett_and_the_Blackhearts.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bombs Away (Remastered 2003)",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/09_Bombs_Away_(Remastered_2003)_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bombs Away (RLP)",
+      "artist": "Twin Shadow",
+      "has_synced": true,
+      "path": "select/10_Bombs_Away_(RLP)_Twin_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bombs away",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/11_Bombs_away_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/12_Bombs_Away_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "Neoni",
+      "has_synced": true,
+      "path": "select/13_Bombs_Away_Neoni.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bombs Away (feat. Morgan Freeman)",
+      "artist": "B.o.B",
+      "has_synced": true,
+      "path": "select/14_Bombs_Away_(feat._Morgan_Freeman)_B.o.B.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bombs away",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/15_Bombs_away_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/16_Bombs_Away_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "06  Bombs Away",
+      "artist": "Police",
+      "has_synced": true,
+      "path": "select/17_06_Bombs_Away_Police.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "Michael Monroe",
+      "has_synced": true,
+      "path": "select/18_Bombs_Away_Michael_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bombs Away",
+      "artist": "Flying Colors",
+      "has_synced": false,
+      "path": "select/19_Bombs_Away_Flying_Colors.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bombs away",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Bombs_away_ONE_OK_ROCK.txt"
+    }
+  ]
+}
